@@ -57,7 +57,7 @@ a {
     color: #434455;
 }
 
-.contacts-link-link:hover,
+.contacts-link:hover,
 .contacts-linkk:focus {
     color: #404bbf;
 }
@@ -131,7 +131,7 @@ a {
 }
 
 .team-list {
-    background-color: #ffffff;
+    background-color: #FFFFFF;
 }
 
 .team-item {}
