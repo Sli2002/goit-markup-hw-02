@@ -68,6 +68,10 @@ a {
 
 /*---------------- HERO ---------*/
 
+.hero {
+    background-color: #2e2f42;
+}
+
 .hero-title {
     font-weight: 700;
     font-size: 56px;
@@ -75,7 +79,7 @@ a {
     letter-spacing: 0.02em;
     text-align: center;
     color: #ffffff;
-    background-color: #2e2f42;
+
 }
 
 .hero-button {
@@ -88,6 +92,8 @@ a {
 }
 
 /* ----------ABOUT------------ */
+.about {}
+
 .about-list {}
 
 .about-item {}
@@ -109,6 +115,11 @@ a {
 }
 
 /*-----------TEAM-------------- */
+.team-section {
+    background-color: #f4f4fd;
+    ;
+}
+
 .team {
     font-weight: 700;
     font-size: 36px;
@@ -116,9 +127,12 @@ a {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 
-.team-list {}
+.team-list {
+    background-color: #ffffff;
+}
 
 .team-item {}
 
@@ -151,6 +165,7 @@ a {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 
 .portfolio-list {}
