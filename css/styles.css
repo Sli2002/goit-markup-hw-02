@@ -88,7 +88,13 @@ a {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
+    cursor: pointer;
     background-color: #4d5ae5;
+}
+
+.hero-button:hover,
+.hero-button:focus {
+    #404BBF;
 }
 
 /* ----------ABOUT------------ */
@@ -168,7 +174,9 @@ a {
     text-transform: capitalize;
 }
 
-.portfolio-list {}
+.portfolio-list {
+    background-color: #ffffff;
+}
 
 .portfolio-item {}
 
