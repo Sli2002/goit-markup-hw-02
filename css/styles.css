@@ -163,6 +163,10 @@ a {
 
 /* -----------PORTFOLIO----------- */
 
+.portfolio-section {
+    background-color: #FFFFFF;
+}
+
 .portfolio {
     font-weight: 700;
     font-size: 36px;
