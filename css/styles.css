@@ -94,7 +94,7 @@ a {
 
 .hero-button:hover,
 .hero-button:focus {
-    #404BBF;
+    background-color: #404BBF;
 }
 
 /* ----------ABOUT------------ */
@@ -123,7 +123,6 @@ a {
 /*-----------TEAM-------------- */
 .team-section {
     background-color: #f4f4fd;
-    ;
 }
 
 .team {
@@ -137,7 +136,7 @@ a {
 }
 
 .team-list {
-    background-color: #FFFFFF
+    background-color: #FFFFFF;
 }
 
 .team-item {}
